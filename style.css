@@ -1,0 +1,23 @@
+body {
+    margin: 0;
+    background-color: darkblue;
+}
+
+.container {
+    display: flex;
+    justify-content: space-around;
+}
+
+h2 {
+    text-align: center;
+    color: red;
+}
+
+button {
+    background-color: black;
+    color: white;
+}
+
+.reset {
+    text-align: center;
+}
